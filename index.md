@@ -3,8 +3,9 @@
 **Bold**
 # Heading 1
 ## Heading 2
-[Link](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-![Image](https://png.pngtree.com/png-clipart/20190108/ourmid/pngtree-tree-green-plant-photography-png-png-image_305004.jpg)
+[Lab Report 1](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+![Lab Report 1](https://png.pngtree.com/png-clipart/20190108/ourmid/pngtree-tree-green-plant-photography-png-png-image_305004.jpg)
+[Lab Report 1](lab-report-1-week-2.html)
 > Blockquote
 * List
 * List
