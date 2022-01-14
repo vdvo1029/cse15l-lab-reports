@@ -1,5 +1,3 @@
-![Image](screenss.PNG)
-
 
 # Installing Visual Studio Code
 1. Go to https://code.visualstudio.com/ and install visual studio code. The website should look like this.![Image](vscode.PNG)
