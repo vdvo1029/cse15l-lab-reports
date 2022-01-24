@@ -26,9 +26,8 @@ To move files from your computer to the remote computer, type scp, the file you 
 ![Image](scp.PNG)first command should not be there
 
 # Setting an SSH key
-You can get rid of the need to enter your password by setting an SSH key. To create a public key and private key, type ssh-keygen -t ed25519. Then, press enter twice to accept default locations and empty passwords. Then, follow instructions on [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
+You can get rid of the need to enter your password by setting an SSH key. To create a public key and private key, type ```ssh-keygen -t ed25519   ```.   Then, press enter twice to accept default locations and empty passwords. Then, follow instructions on [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
 Then, type in commands shown in picture to move public key to remote server after logging onto the remote server.  
-```ssh-keygen -t ed25519   ```  
 ``` mkdir .ssh```  
 ```scp /Users/soupy/.ssh/id_ed25519.pub cs15lwi22anc@ieng6.ucsd.edu:~/.ssh/authorized_keys     ```
 ![Image](sshkey.PNG)
