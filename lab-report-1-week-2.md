@@ -9,7 +9,7 @@
 2. You will also need to set up your cs15l account here [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
 3. If everything is set up correctly, open a terminal in vscode and type  
  ```ssh cs15lwi22anc@ieng6.ucsd.edu```  
- with the anc being replaced by the letters for your account. Enter your password.![Image](opensshpic2.PNG) 
+ with the ```anc``` being replaced by the letters for your account. Enter your password.![Image](opensshpic2.PNG) 
 
 # Trying Some Commands
 1. On the remote server, try the ```cat ```command. This lets you see the contents of a file.    
