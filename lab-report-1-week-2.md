@@ -21,7 +21,7 @@
 ![Image](lscommand.PNG)
 
 # Moving Files with scp
-To move files from your computer to the remote computer, type ```scp```, the ```file``` you want to send, then the ```account``` and place you want to send it to. You should be prompted to enter your password. You can then check the files by using the cat command on the remote computer.  
+To move files from your computer to the remote computer, type ```scp```, the ```file``` you want to send, then the ```account``` and place you want to send it to. You should be prompted to enter your password. You can then check the files by using the ```cat``` command on the remote computer.  
 ``` scp WhereAmi.java cs15lwi22anc@ieng6.ucsd.edu:~/```
 ![Image](scp.PNG)first command should not be there
 
