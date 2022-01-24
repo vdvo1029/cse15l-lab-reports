@@ -12,10 +12,10 @@
  with the anc being replaced by the letters for your account. Enter your password.![Image](opensshpic2.PNG) 
 
 # Trying Some Commands
-1. On the remote server, try the cat command. This lets you see the contents of a file.    
+1. On the remote server, try the ```cat ```command. This lets you see the contents of a file.    
 ``` cat WhereAmI.java```
 ![Image](catcommand.PNG)
-2. Try the ls command. This lets you see files and folders in directory. Putting a ~ after ls lets you see folders that start with a "."   
+2. Try the ```ls``` command. This lets you see files and folders in directory. Putting a ```~``` after ls lets you see folders that start with a ```.```  
 ``` ls ```  
 ```ls -a```
 ![Image](lscommand.PNG)
