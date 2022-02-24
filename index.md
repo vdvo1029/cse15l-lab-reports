@@ -5,10 +5,11 @@
 ## Heading 2
 [Lab Report 1](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 ![Lab Report 1](https://png.pngtree.com/png-clipart/20190108/ourmid/pngtree-tree-green-plant-photography-png-png-image_305004.jpg)  
-[Lab Report 1](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-1-week-2.html)  
+[lab-report-1-week-2](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-1-week-2.html)  
 
-[Lab Report 2](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
-[Lab Report 3](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+[lab-report-2-week-4](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-2-week-4.html)  
+[lab-report-3-week-6](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-3-week-6.html)  
+[lab-report-4-week-8](https://vdvo1029.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
 > Blockquote
 * List
