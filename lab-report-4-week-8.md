@@ -1,8 +1,10 @@
 # Lab Report 8
 [My repository](https://github.com/vdvo1029/markdown-parse)  
-[Other group's repository](https://github.com/vdvo1029/markdownothergroup)
+[Other group's repository]https://github.com/CatFish47/markdown-parse)
 ## Snippet 1
 ![Image](lr4-1.PNG)  
+![Image](snip1.png)
+This test was used for both implementations.  
 The CommonMark demo site says that snippet 1 should includes the `` `google.com `` link.  
 My implmentation didn't pass the test.
 ![Image](lr4-2.PNG)  
@@ -11,6 +13,8 @@ The other group's implementation didn't pass either.
 
 ## Snippet 2
 ![Image](lr4-4.PNG)
+![Image](snip2.png)
+This test was used for both implementations.  
 The CommonMark demo site says that there should be 3 links. The links should be `a.com`, `a.com(())`, and `example.com`  
 My implementation didn't pass the test.  
 ![Image](lr4-5.PNG)  
@@ -18,11 +22,14 @@ The other group's implementation didn't pass the test either.
 ![Image](lr4-6.PNG)  
 
 ## Snippet 3
-![Image](lr4-7.PNG)  
+![Image](lr4-7.PNG) 
+![Image](snip3.png)
+This test was used for both implementations.  
 The CommonMark demo site says that there should be 1 link. The link should be `https://ucsd-cse15l-w22.github.io/`  
 My implementation didn't pass the test.
-![Image](lr4-8.PNG)  
+![Image](lr44.PNG)  
 The other group's implementation didn't pass the test either.
+![Image](lr441.PNG)
 
 
 # Questions
