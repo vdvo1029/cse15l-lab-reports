@@ -1,6 +1,6 @@
 # Lab Report 8
 [My repository](https://github.com/vdvo1029/markdown-parse)  
-[Other group's repository]https://github.com/CatFish47/markdown-parse)
+[Other group's repository](https://github.com/CatFish47/markdown-parse)
 ## Snippet 1
 ![Image](lr4-1.PNG)  
 ![Image](snip1.png)
